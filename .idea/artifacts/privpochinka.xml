@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="privpochinka">
+    <output-path>$PROJECT_DIR$/out/artifacts/privpochinka</output-path>
+    <root id="archive" name="privpochinka.jar">
+      <element id="module-output" name="NowPochinka" />
+    </root>
+  </artifact>
+</component>

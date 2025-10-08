@@ -1,0 +1,8 @@
+name: NowPochinka
+version: '${project.version}'
+main: ru.nowpochinka.NowPochinka
+api-version: '1.21'
+prefix: NowPochinka
+authors: [Droid]
+description: Плагин для изменения механики зачарования Починка - 10 опыта за 1 прочность
+website: https://github.com/Suosaari/nowpochinka
